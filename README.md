@@ -267,7 +267,6 @@ Global state is managed via **React Context API** with custom hooks (`useAuth`, 
 
 Here's what's planned for upcoming versions of Rizzume:
 
-- 📝 **Resume Builder** — Generate a polished, ATS-optimized resume directly from the platform based on AI suggestions
 - 📈 **Resume Score Dashboard** — Visual scoring breakdown across categories like skills match, tone, structure, and ATS compatibility
 - 🧪 **Mock Interview Mode** — AI-generated interview questions tailored to the job description with answer evaluation
 - 📧 **Cover Letter Generator** — Auto-generate personalized cover letters from resume + JD input
